@@ -3,7 +3,11 @@ The Tagalog Compiler is a unique programming tool that uses Tagalog-based keywor
 
 This compiler is built around three key components. The lexical analyzer breaks down code into tokens, the syntax analyzer ensures the structure follows the rules of the language, and the semantic analyzer checks for logical consistency, such as proper variable declarations and assignments. These parts work together seamlessly to catch errors and provide feedback to the user. To make it even easier to use, the compiler includes a Graphical User Interface (GUI) that simplifies the process. Users can load code, run analyses, and see results in an organized layout. With its innovative approach, the Tagalog Compiler is both a learning tool and a practical resource for anyone looking to code in a Tagalog-based language.
 
+
 Programmers:
+
 Campos, Vince D.
+
 Calimlim, Prince Ken Xin
+
 Tamayo, Joaquin Elijah P.
