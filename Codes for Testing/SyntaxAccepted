@@ -1,0 +1,5 @@
+bilang x = "hello";
+bilang z = 15;
+doble y = 10;
+karakter a = 'A';
+tali b = "Project In TPL";
